@@ -2,13 +2,6 @@
 
 Welcome to my collection of HTML examples and explanations! This repository showcases various HTML code snippets that I've learned during my HTML5 journey. Each code snippet is accompanied by a brief comment explaining its purpose.
 
-## Contents
-
-- [Introduction](#introduction)
-- [Examples](#examples)
-- [How to Use](#how-to-use)
-- [Contributions](#contributions)
-
 
 ## Introduction
 
@@ -36,10 +29,5 @@ In this repository, you'll find a collection of HTML code examples that cover a 
 
 Contributions to this repository are welcome! If you find any errors, typos, or want to add more examples, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Happy learning and coding! If you have any questions or suggestions, feel free to get in touch.
